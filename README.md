@@ -1,1 +1,1 @@
-![Follow the white rabbit.](https://i.gifer.com/NvI.gif)
+<img src="(https://i.gifer.com/NvI.gif" alt="Follow the white rabbit." width="100%"/>
